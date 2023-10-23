@@ -1,5 +1,5 @@
 public class Colaborador {
-    *hola*
+    *adios*
 
 
 }
